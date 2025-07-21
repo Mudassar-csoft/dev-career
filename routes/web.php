@@ -1,4 +1,3 @@
-
 <?php
 use App\Http\Controllers\admin\LeadController;
 use Illuminate\Support\Facades\Auth;
@@ -90,7 +89,7 @@ Route::get('/about-us', [WebsiteController::class, 'aboutUs'])->name('aboutUs');
 Route::get('/short-courses', [WebsiteController::class, 'shortCourses'])->name('shortCourses');
 Route::get('/courses', [WebsiteController::class, 'courses'])->name('courses');
 Route::post('/searchcourse', [WebsiteController::class, 'searchcourse'])
-->name('searchcourse');
+    ->name('searchcourse');
 
 
 Route::get('/pearson-testing', [WebsiteController::class, 'pearsonTesting'])->name('pearsonTesting');
@@ -166,7 +165,7 @@ Route::post('/logout', function () {
     return redirect('/');
 })->name('logout');
 Route::post('/website-admin-login', function (\Illuminate\Http\Request $request) {
-    
+
     $credentials = $request->only('email', 'password');
 
     if (LoginAuth::attempt($credentials)) {
@@ -543,6 +542,12 @@ Route::middleware(['preventBackHistory'])->group(function () {
 
 
 });
+
+Route::get('/optimize', function () {
+    Artisan::call('optimize:clear');
+    return "Optimize Cleared";
+});
+
 // portal routes end ================================================
 
 Route::get('/storage-clear', function () {
