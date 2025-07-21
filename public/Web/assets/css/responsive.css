@@ -1,0 +1,3610 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@media only screen and (min-width:1200px) and (max-width:1500px) {
+    .navbar-logo-ui {
+        width: 340px;
+        padding: 5px 0px;
+    }
+
+    .navlink-response-ui {
+        font-size: 13px !important;
+    }
+
+
+    /*.navbar-nav .nav-item {*/
+    /*    font-size: 14px !important;*/
+    /*}*/
+
+    /*.top-nav-outer-ui .nav-link {*/
+    /*    padding: 0.5rem 0.6rem;*/
+    /*    font-size: 12px !important;*/
+    /*}*/
+
+    .dropdown-content-pages-ui a {
+        font-size: 14px;
+    }
+
+    /*Farhan Latest Courses Section Start */
+    .first-co-line h4 {
+        font-size: 18px;
+    }
+
+    .course__title-ai {
+        /*margin-top: 20px !important;*/
+        font-size: 17px;
+    }
+
+    .card-date h1 {
+        font-size: 24px !important;
+    }
+
+    .card-date h5 {
+        font-size: 15px !important;
+    }
+
+    .card-date {
+        padding: 10px 5px 10px 5px;
+        height: 80px;
+        width: 80px;
+    }
+
+    .first-co-line p {
+        font-size: 12px;
+    }
+
+    .carousel-img {
+        height: 480px;
+        width: 710px;
+    }
+
+
+
+    .news-heading {
+        font-size: 1.75rem;
+    }
+
+    .about-sec-ai img {
+        width: 100%;
+    }
+
+    .single-news-item img {
+        width: 30%;
+        margin-right: 15px;
+    }
+
+    .sub-active-ai p {
+        font-size: 11px;
+
+    }
+
+    .icon-news-ai p {
+        margin-bottom: 1%;
+    }
+
+    .news-info-ai {
+        max-width: 100%;
+    }
+
+    .info-single-ai {
+        float: right;
+    }
+
+    .info-single-ai h5 {
+        font-size: 14px !important;
+    }
+
+    .info-single-ai p {
+        font-size: 12px !important;
+    }
+
+    .single-batch-ai {
+        width: 100%;
+        justify-content: space-evenly;
+    }
+
+    .date-ai {
+        border-radius: 20px;
+        padding: 5px 20px 5px 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        border: 3px solid #FF5500;
+        margin-right: 25px;
+    }
+
+    .info-batch-ai h5 {
+        font-size: 13px !important;
+        width:250px;
+    }
+
+    .info-batch-ai {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .date-ai {
+        margin: 0%;
+        margin-bottom: 10px;
+    }
+
+    .date-ai h1 {
+        font-size: 3.5rem !important;
+    }
+
+    .date-ai p {
+        font-size: 13px !important;
+    }
+
+    .news-info-ai {
+        padding-left: 0px;
+    }
+
+    .news-line-ai {
+        width: 100%;
+    }
+
+    .single-batch-ai {
+/*        margin-top: 2%;
+        margin-bottom: 2%;*/
+    }
+
+    .info-about-ai h5 {
+        font-size: 15px;
+    }
+
+    .info-about-ai p {
+        font-size: 12px;
+    }
+
+    /*FArhan Latest Courses Section End */
+    /* <!-- counter app css --> */
+    #funfact-area {
+        padding: 21px 0px;
+        margin: 0px 45px;
+    }
+
+    .funfact-icon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-right: 5px;
+    }
+
+    .funfact-icon img {
+        width: 60px;
+    }
+
+    .funfact-text {
+        font-size: 10px;
+
+    }
+
+    .funfact-text h1 {
+        font-size: 23px;
+    }
+
+    /*== FunFact CSS End ==*/
+}
+
+@media only screen and (min-width:1200px) and (max-width:1400px) {
+
+    .form-heading h2 {
+        font-size: 24px !important;
+        line-height: 2rem;
+    }
+
+    .hero-form-cont-ui {
+        padding: 15px 17px 14px 45px !important;
+        font-size: 14px;
+        line-height: 0.5;
+    }
+
+}
+
+@media only screen and (min-width:1100px) and (max-width:1199px) {
+    .top-nav-ui-row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-size: 12px;
+
+    }
+
+    .navbar-logo-ui {
+        width: 330px;
+        padding: 5px 0px;
+    }
+
+    .navlink-response-ui {
+        font-size: 12px !important;
+    }
+
+    .dropdown-content-pages-ui a {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (min-width:991px) and (max-width:1099px) {
+    .top-nav-ui-row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-size: 12px;
+
+    }
+
+    .nav {
+        margin-top: -15px;
+        font-size: 8px;
+    }
+
+    /* #navbarNavAltMarkup {
+        font-size: 10px;
+    } */
+
+    .navbar-logo-ui {
+        width: 270px;
+        padding: 5px 0px;
+    }
+
+    .dropdown-content-pages-ui a {
+        font-size: 10px;
+    }
+}
+
+/* Navbar-Responsive-Start */
+/*@media only screen and (max-width:400px) {*/
+/*    .nav {*/
+/*        margin-right: 10px;*/
+/*    }*/
+/*}*/
+/*@media only screen and (min-width:400px) {*/
+/*    .nav {*/
+/*        margin-right: 10px;*/
+/*    }*/
+/*}*/
+
+@media only screen and (max-width:991px) {
+    .top-nav-ui-row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-size: 10px;
+
+    }
+
+    .nav {
+        /*margin-top: -12px;*/
+        /*margin-left: -38px;*/
+        margin-bottom: -10px;
+
+    }
+
+    /*.navbar-nav a {*/
+    /*    border-bottom: 2px solid white;*/
+    /*}*/
+
+    .center-block-one .inner-box {
+        height: 30rem;
+    }
+
+    .dropdown-pages-ui {
+        display: block;
+        /* transition: all 0.4s ease; */
+    }
+
+    .dropdown-content-pages-ui a:hover {
+        background: none
+    }
+
+    .dropdown-content-pages-ui {
+        display: none;
+        position: relative;
+        top: 0;
+        max-width: 100%;
+        background-color: transparent;
+        box-shadow: none;
+        border-bottom: 2px solid white;
+        border-radius: 0;
+        /* transition: all 0.4s ease; */
+    }
+
+    .dropdown-content-pages-ui a {
+        color: white;
+    }
+
+    .dropdown-pages-ui:hover .dropdown-content-pages-ui {
+        display: block;
+    }
+}
+
+
+@media only screen and (max-width: 470px) {
+    .navbar-logo-ui {
+        width: 240px !important;
+    }
+}
+
+@media only screen and (min-width:200px) and (max-width:400px) {
+    .cal-em {
+        padding: 0px !important;
+        display: flex;
+        justify-content: center;
+    }
+
+
+}
+
+/* Navbar-Responsive-End */
+/* NAvBAr-End */
+/* Hero-Form-Resposive Start */
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .hero-slider {
+        margin: 60px 0px 5px 0px;
+    }
+
+    .hero-form {
+        margin: 60px 0px 90px 0px !important;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:990px) {
+    .hero-slider {
+        margin: 60px 0px 5px 0px;
+    }
+
+    .hero-form {
+        margin: 60px 0px 60px 0px !important;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .hero-slider {
+        margin: 60px 0px 5px 0px;
+    }
+
+    .hero-form {
+        margin: 60px 0px 5px 0px !important;
+    }
+
+    .portfolio-img img {
+        width: 100%;
+    }
+
+    .center-block-one .inner-box {
+        height: 28rem;
+    }
+}
+
+/* Hero-Form-Resposive End */
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (max-width : 480px) {
+
+    /* Styles */
+    .social-icon svg {
+        font-size: 23px !important;
+    }
+
+    /* BECOME A PARTNER SECTION START*/
+    .b-part-section .col-lg-12 {
+        padding: 0px;
+    }
+
+    /* .container-fluid.b-part-section {
+        padding: 0px !important;
+    } */
+    .b-part-section .row {
+        padding: 0px !important;
+    }
+
+    .partner-form input {
+        font-size: 12px;
+    }
+
+    .social-icon svg {
+        font-size: 35px !important;
+    }
+
+    /* BECOME A PARTNER SECTION END*/
+    /* ENQUIRY FORM START */
+    .enquiry-section h1 {
+        font-size: 21px;
+        text-align: center;
+    }
+
+    .enquiry-section span {
+        padding: 0px !important;
+    }
+
+    .enquiry-section .sm-line {
+        width: 222px !important;
+    }
+
+    .enquiry-section .modal-body {
+        padding: 0px !important;
+    }
+
+    .enquiry-section .col-lg-12 form {
+        padding: 0px !important;
+    }
+
+    .enquiry-section .form-control {
+        font-size: 13px;
+    }
+
+    .form-group label {
+        font-size: 14px;
+    }
+
+    .form-group .custom-select {
+        font-size: 13px;
+    }
+
+    .sub-btn-fa {
+        font-size: 15px;
+    }
+
+    .apply-btn {
+        font-size: 15px;
+    }
+
+    /* ENQUIRY FORM END */
+    /* video-section-start */
+    .play-btn {
+        padding-top: 0px;
+    }
+
+    .sun {
+        margin-top: 0px;
+    }
+
+    .left-v-area-content {
+        margin: 0px 80px;
+    }
+
+    /* video-section-end */
+    /*---------------------------
+     Social Media Secion Stert
+     --------------------------  */
+    .social-row-is {
+        padding: 0 !important;
+    }
+
+    .social-media {
+        padding: 0px 4px !important;
+    }
+
+
+    .social-media .social-icon {
+        font-size: 20px !important;
+        padding: 8px 8px;
+    }
+
+    .social-icon i {
+        font-size: 22px;
+    }
+
+    .socia-title {
+        padding: 26px 1px 4px !important;
+        font-size: 27px;
+    }
+
+    .social-icon p {
+        display: none;
+    }
+
+    .social-vr-line {
+        display: none;
+    }
+
+    .social-media {
+        justify-content: space-between !important;
+    }
+
+    /*---------------------------
+     Social Media Secion End
+     --------------------------  */
+    /* CEO SECTION START */
+    .ceo-pic img {
+        max-width: 50%;
+    }
+
+    .ceo-info h2 {
+        font-size: 25px;
+        font-weight: bold;
+    }
+
+    .small-msg p br {
+        display: none;
+    }
+
+    .ceo-icons-pt {
+        padding-right: 0px;
+        padding-top: 19px;
+    }
+
+    /* CEO SECTION END */
+    /* MISSION SECTION START */
+    .mhn-section h1 {
+        font-size: 25px;
+    }
+
+    .ceo-para {
+        letter-spacing: 0px;
+        font-size: 15px;
+        opacity: 0.6;
+        padding-top: 15px !important;
+    }
+
+    /* MISSION SECTION END */
+    /* KRYTERION PAGE START */
+    p.page-locate {
+        font-size: 13px;
+    }
+
+    .kry-heading h1 {
+        font-size: 25px;
+    }
+
+    .kry-logo {
+        display: flex;
+        justify-content: center;
+    }
+
+    .kry-logo img {
+        max-width: 75%;
+        float: none;
+        padding-top: 15px;
+    }
+
+    .testing-sec {
+        background-position: center;
+    }
+
+    .test-box {
+        background-position: center;
+    }
+
+    .outer-box {
+        padding-top: 0px;
+    }
+
+    .test-box {
+        max-width: 100%;
+    }
+
+    .exam-form-sec h1 {
+        font-size: 30px;
+    }
+
+    .kry-map-ls {
+        padding-top: 0px !important;
+        padding-left: 0px !important;
+    }
+
+    .counsling-contact {
+        justify-content: center;
+    }
+
+    @media only screen and (max-width: 480px) {
+        .counsling-contact {
+            justify-content: start;
+        }
+    }
+
+    @media only screen and (min-width:992px) and (max-width:1400px) {}
+
+    .counsling-call {
+        padding-bottom: 10px;
+    }
+
+    .kry-map-side iframe {
+        height: 320px;
+        margin-top: 15px;
+    }
+
+    /* KRYTERION PAGE END */
+    /* ambassador program page css  start*/
+    .ambassador-social-inp {
+        width: 155px !important;
+    }
+
+    .ambassador-label {
+        font-size: 15px;
+    }
+
+    .ambassador-program-main {
+        background-position-y: -0px;
+    }
+
+    .latest-content ul li a {
+        font-size: 20px;
+    }
+
+    .latest-content ul li {
+        line-height: 40px;
+    }
+
+    /* ambassador program page css end */
+    /* courses single page  */
+    .faq-mainhead-ai h5 {
+        font-size: 12px !important;
+    }
+
+    /* BLOG PAGE START */
+    .left-side-menu label {
+        padding-right: 0px !important;
+    }
+
+    /* BLOG PAGE END */
+
+
+}
+
+@media only screen and (min-width:1200px) and (max-width:1400px) {
+    .video-heading h1 {
+        font-size: 45px !important;
+    }
+}
+
+@media only screen and (min-width:991px) and (max-width:1200px) {
+    .video-heading h1 {
+        font-size: 35px !important;
+    }
+
+    .video-apply-btn {
+        font-size: 20px !important;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:990px) {
+    .video-heading h1 {
+        font-size: 25px !important;
+    }
+
+    .video-apply-btn {
+        font-size: 12px !important;
+    }
+}
+
+@media only screen and (min-width:475px) and (max-width:767px) {
+    .video-heading h1 {
+        font-size: 20px !important;
+
+    }
+
+    .video-apply-btn {
+        font-size: 12px !important;
+    }
+}
+
+@media only screen and (min-width:375px) and (max-width:474px) {
+    .video-heading h1 {
+        font-size: 15px !important;
+        line-height: 22px;
+    }
+
+    .video-apply-btn {
+        font-size: 10px !important;
+    }
+}
+
+@media only screen and (max-width:474px) {
+    .video-heading h1 {
+        font-size: 12px !important;
+        line-height: 22px;
+    }
+}
+
+@media only screen and (max-width : 991px) {
+    .owl-controls {
+        display: none;
+    }
+
+    .hero-slider {
+        margin: 60px 0px 0px 0px;
+    }
+
+    .navbar-logo-ui {
+        width: 240px;
+        margin-top: -12px;
+    }
+
+    .hero-btn-ui {
+        justify-content: center;
+    }
+
+    /* owl img width for tablet and mobile AI Start */
+    #resp-para {
+        text-align: center !important;
+    }
+
+    .card-img-top {
+        width: 100% !important;
+    }
+
+    /* owl img width for tablet and mobile AI End*/
+    .card-title {
+        font-weight: bold;
+    }
+
+    .card-para {
+        text-align: justify;
+        font-size: 13px;
+        opacity: 0.8;
+    }
+
+    .card-date h1 {
+        font-size: 24px;
+    }
+
+    .card-date h5 {
+        font-size: 18px;
+    }
+
+    .card-date {
+        padding: 10px 5px 10px 5px;
+    }
+
+    /*---------------------------
+     Footer Contact section start
+     --------------------------  */
+    .footer-row-is {
+        padding: 0 !important;
+    }
+
+    .footer-col-is {
+        padding: 0 !important;
+    }
+
+    .footer-contact-title-is {
+        font-size: 30px;
+    }
+
+    .top-footer {
+        margin-top: -50px;
+    }
+
+    .footer-contact-form {
+        height: 50px;
+        width: 325px;
+    }
+
+    .footer-contact-form-last {
+        height: 50px;
+        width: 325px;
+    }
+
+    .footer-contact-icon {
+        font-size: 21px;
+    }
+
+    .footer-contact-icon-btn {
+        font-size: 21px;
+    }
+
+    .footer-contact-title-is {
+        font-size: 24px;
+    }
+
+    /*---------------------------
+     Footer Contact Secion End
+     --------------------------  */
+    /* About Us Css Start */
+    /* Progress Filler Bar Start*/
+    /* Progress Filler Bar End*/
+    .info-about-us-ai {
+        padding-top: 40px;
+    }
+
+    /* About Us Css END */
+    /* Courses-page-Start */
+    .courses-row-main-ai {
+        flex-direction: column-reverse;
+    }
+
+    /* Courses-page-End */
+    /* ambassador program page css  start*/
+    .latest-content ul li a {
+        font-size: 20px;
+    }
+
+    .latest-content ul li {
+        line-height: 40px;
+    }
+
+    /* ambassador program page css end */
+    /* BLOG PAGE START */
+    .search-courses-ai {
+        margin-bottom: 0px !important;
+    }
+
+    /* BLOG PAGE END */
+
+}
+
+@media only screen and (max-width : 1300px) {
+    .gallery_product img {
+        margin-bottom: 104px;
+    }
+}
+
+@media only screen and (min-width:475px) and (max-width:991px) {
+    .inner-co-img {
+        width: unset !important;
+    }
+
+    .std-img {
+        width: unset !important;
+    }
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (max-width:600px) {
+    .partner-row-margin-ai {
+        margin-left: 0px !important;
+    }
+}
+
+@media only screen and (min-width : 321px) and (max-width: 480px) {
+
+    /* SPACE TO WORK SECTION START */
+    .single-stw-card {
+        margin-top: 12px;
+    }
+
+    h4.single-stw-title {
+        font-size: 20px;
+    }
+
+    .single-stw-span span {
+        font-size: 16px;
+    }
+
+    /* SPACE TO WORK SECTION END */
+    /* MINOR CHANGES INDEX START*/
+    .funfact-text h1 {
+        font-size: 30px;
+    }
+
+    .news-heading {
+        font-size: 36px;
+    }
+
+    .sm-line-news {
+        margin-bottom: 5px;
+    }
+
+    .featured-courses-head-ui .col-lg-4 h1 {
+        font-size: 31px;
+    }
+
+    .footer-contact-form input {
+        font-size: 13px !important;
+    }
+
+    .footer-contact-form i {
+        font-size: 20px !important;
+    }
+
+    .footer-contact-icon-btn {
+        font-size: 20px !important;
+    }
+
+    .sec-col-res-fa {
+        justify-content: center !important;
+    }
+
+    .footer-social {
+        padding-right: 0px;
+    }
+
+    .review-section .col-lg-12 h1 {
+        font-size: 30px;
+    }
+
+    .about-sec-heading-ai .sm-line-news {
+        margin-bottom: 25px;
+    }
+
+    .cards-outer-ui {
+        padding: 30px !important;
+    }
+
+    .ceo-section {
+        padding-top: 45px;
+        padding-bottom: 45px;
+    }
+
+    /* MINOR CHANGES INDEX END*/
+    /* MINOR CHANGES COURSE PAGE START */
+    .basic-pagination {
+        margin-top: 10px !important;
+    }
+
+    .Courses-sec-heading-ai .sm-line-news {
+        margin-bottom: 25px;
+    }
+
+    .news-slider-content-ai .news-info {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .tags-sec-ai a {
+        font-size: 14px;
+    }
+
+    .search-courses-ai .sm-line-news {
+        margin-left: 43%;
+    }
+
+    .lates-news-header-ai .sm-line-news {
+        margin-bottom: 20px;
+    }
+
+    .courses-tag-ai .sm-line-news {
+        margin-left: 43%;
+    }
+
+    /* MINOR CHANGES COURSE PAGE END */
+    /* Styles */
+    img.robo-hand-fa {
+        max-width: 100%;
+    }
+
+    /* PARTNER SECTION START */
+    .partner-section h1 {
+        font-size: 25px;
+    }
+
+    .partner-section p {
+        font-size: 13px;
+    }
+
+    /* PARTNER SECTION END */
+    /* BECOME A PARTNER SECTION START*/
+    .b-part-section .col-lg-12 {
+        padding: 0px;
+    }
+
+    /* .container-fluid.b-part-section {
+        padding: 0px !important;
+    } */
+    .b-part-section .row {
+        padding: 0px !important;
+    }
+
+    .partner-form input {
+        font-size: 12px;
+    }
+
+    /* BECOME A PARTNER SECTION END*/
+    /* QUOTE SECTION START */
+    .quote-section .row {
+        margin-left: 0rem;
+        margin-right: 0rem;
+    }
+
+    .quote-section .col-lg-2 img {
+        max-width: 100%;
+        float: none;
+        margin-right: 0px;
+    }
+
+    .quote-section p {
+        font-size: 15px;
+        padding-top: 16px;
+        text-align: center;
+    }
+
+    /* QUOTE SECTION END */
+    /* UPCOMING EVENTS SECTION START */
+    .upcoming-events h1 {
+        font-size: 25px;
+    }
+
+    .upcoming-events p {
+        font-size: 13px;
+    }
+
+    /* UPCOMING EVENTS SECTION END */
+    /* BECOME A PARTNER SECTION START*/
+    .b-part-section .col-lg-12 {
+        padding: 0px;
+    }
+
+    /* .container-fluid.b-part-section {
+        padding: 0px !important;
+    } */
+    .b-part-section .row {
+        padding: 0px !important;
+    }
+
+    .partner-form input {
+        font-size: 12px;
+    }
+
+    /* BECOME A PARTNER SECTION END*/
+    /* CAMPUS-FACT SECTION START */
+    .campus-life li {
+        font-size: 15px;
+    }
+
+    /* CAMPUS_FACT SECTION END */
+    /* ========================= */
+    /* REVIEW START */
+    .first-co-line {
+        flex-direction: column;
+    }
+
+    .first-co-line .col-lg-4 {
+        justify-content: left;
+        display: flex;
+    }
+
+    .first-co-line .col-lg-8 {
+        margin-top: -12px;
+        text-align: center;
+    }
+
+    .sec-co-line {
+        flex-direction: column;
+    }
+
+    .sec-co-line .col-lg-4 {
+        justify-content: center;
+        display: flex;
+    }
+
+    .sec-co-line .col-lg-8 {
+        margin-top: 15px;
+        text-align: center;
+    }
+
+    .th-co-line {
+        flex-direction: column;
+    }
+
+    .th-co-line .col-lg-4 {
+        justify-content: center;
+        display: flex;
+    }
+
+    .th-co-line .col-lg-8 {
+        margin-top: 15px;
+        text-align: center;
+    }
+
+    /* REVIEW END */
+    /* TOP FOOTER START */
+    .footer-logo img {
+        max-width: 70%;
+    }
+
+    .top-footer {
+        padding-top: 65px;
+        padding-bottom: 65px;
+    }
+
+    .footer-logo {
+        display: flex;
+        justify-content: center;
+    }
+
+    .footer-link-res {
+        padding-top: 30px;
+    }
+
+    ul.footer-menu {
+        /* margin-left: 25px; */
+    }
+
+    .contact-res {
+        /* padding-left: 25px; */
+        padding-top: 10px;
+    }
+
+    .nav-items-ai a {
+        width: 100%;
+        padding-bottom: 10px;
+        padding-left: 25px;
+    }
+
+    .nav-items-ai a:hover {
+        text-decoration: underline;
+    }
+
+    .nav-items-ai ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+
+        flex-direction: column;
+    }
+
+    .nav-items-ai li {
+        margin-bottom: 10px;
+    }
+
+    .footer-btm-ai .col-lg-4 {
+        justify-content: center !important;
+    }
+
+    .footer-social {
+        margin-top: 12px;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+    }
+
+    .footer-social {
+        display: block;
+    }
+
+    .twi {
+        padding: 5px 8px 5px 8px;
+        font-size: 22px;
+    }
+
+    /* TOP FOOTER END */
+    /* END FOOTER START */
+    .end-footer .row {
+        flex-wrap: nowrap;
+    }
+
+    .end-footer .col-lg-6 p {
+        font-size: 14px;
+    }
+
+    .end-footer li a {
+        padding: 0px;
+        font-size: 14px;
+    }
+
+    .end-footer .col-lg-6 ul {
+        flex-direction: column;
+        display: flex;
+    }
+
+    /* END FOOTER END */
+    /* ambassador page css start  */
+    .ambassador-program-main .ambassador-program-main-cov h1 {
+        font-size: 24px;
+    }
+
+    button.ambassador-btn {
+        padding: 0;
+        font-size: 10px;
+        padding: 0.5rem 1.5rem;
+        margin: 30px 0px;
+    }
+
+    /* ambassador page css end  */
+    /* BLOGS PAGE START */
+    .basic-pagination ul li {
+        margin-right: 5px !important;
+    }
+
+    /* BLOGS PAGE END */
+    /* SOCIAL FOOTER START */
+    .some-ancr-fa {
+        padding: 10px 0px;
+    }
+
+    .some-ancr-fa ul {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .some-ancr-fa ul a {
+        padding: 5px 0px !important;
+        text-align: left;
+    }
+
+    .social-footer {
+        padding: 0px 0px 50px 0px;
+    }
+
+    .social-icons-side {
+        margin-top: 12px;
+    }
+
+    .twi {
+        margin-left: 1px;
+    }
+
+    .social-outer-block {
+        justify-content: center;
+        display: flex;
+    }
+
+    /* SOCIAL FOOTER END */
+    /* HOW TO PAY PAGE START */
+    .pay-card-img img {
+        width: 100%;
+    }
+
+    .pay-content-pt span {
+        font-size: 20px;
+    }
+
+    /* HOW TO PAY PAGE END */
+}
+
+/* ================================================== */
+/* Block SECtion Media Query Dont Use This  */
+/* Block-News-ai-responsive */
+@media only screen and (max-width: 560px) {
+
+    /* Styles */
+    .form-heading h2 {
+        font-size: 20px;
+        margin-top: -35px;
+        line-height: 32px;
+    }
+
+    .responsive-news-ai-footer {
+        display: none;
+    }
+
+    img.robo-hand-fa {
+        max-width: 100%;
+    }
+
+    /*======== responsive-ai ==========*/
+
+    /* News Block Section Css*/
+    .single-news-item img {
+        width: 50%;
+    }
+
+    .news-info-ai {
+        max-width: 100%;
+    }
+
+    .single-news-item {
+        display: flex;
+        justify-content: start;
+        align-items: center;
+    }
+
+    .info-single-ai h5 {
+        font-size: 15px;
+    }
+
+    .info-single-ai p {
+        font-size: 11px !important;
+        margin: 0%;
+    }
+
+    .news-line-ai {
+        margin: auto;
+    }
+
+    .icon-news-ai p {
+        margin-bottom: 4%;
+    }
+
+    .view-more-news-ai {
+        display: flex;
+        justify-content: center;
+        max-width: 100%;
+    }
+
+    .news-heading {
+        margin-top: 23px;
+        text-align: center;
+    }
+
+    .date-ai {
+        /*margin-right: 16px;*/
+    }
+
+    .date-ai p {
+        font-size: 15px;
+    }
+
+    .view-more-news-ai {
+        margin-top: 23px;
+    }
+
+    .about-sec-ai {
+        margin-top: 6%;
+    }
+
+    .about-sec-ai img {
+        width: 100%;
+    }
+
+    .about-sec-ai h5 {
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .about-sec-ai p {
+        font-size: 15px;
+    }
+
+    .upcoming-ai,
+    .why-choose-ai,
+    .lates-news-header-ai {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .about-sec-ai img {
+        width: 100%;
+    }
+
+    .info-about-ai h5 {
+        font-size: 1.5rem !important;
+        text-align: left;
+    }
+}
+
+@media only screen and (min-width:476) and (max-width:560px) {
+    .single-batch-ai {
+        width: 100%;
+        justify-content: flex-start;
+        margin-bottom: 10px;
+    }
+}
+
+@media only screen and (max-width:475px) {
+    .single-batch-ai {
+        width: 100%;
+        justify-content: flex-start;
+        margin-bottom: 10px;
+    }
+}
+
+/* largephones & ipads (portrait and landscape) ALI SHAN ONLY ----------- */
+@media only screen and (min-width : 481px) and (max-width : 767px) {
+
+    /* SPACE TO WORK SECTION START */
+    .single-stw-card {
+        margin-top: 12px;
+    }
+
+    h4.single-stw-title {
+        font-size: 20px;
+    }
+
+    .single-stw-span span {
+        font-size: 16px;
+    }
+
+    /* SPACE TO WORK SECTION END */
+    /* video-section-start */
+    .play-btn {
+        padding-top: 0px;
+    }
+
+    .sun {
+        margin-top: 0px;
+    }
+
+    .left-v-area-content {
+        margin: 0px 80px;
+    }
+
+    /* video-section-end */
+    /*---------------------------
+     Social Media Secion Stert
+     --------------------------  */
+    .social-row-is {
+        padding: 0 !important;
+    }
+
+    .socia-title span {
+        font-weight: bold;
+    }
+
+    .social-media {
+        padding: 0 !important;
+    }
+
+    .social-media .social-icon {
+        font-size: 20px;
+        padding: 15px 8px;
+    }
+
+    .s-icon-is {
+        font-size: 30px !important;
+    }
+
+    .socia-title {
+        margin-top: 20px;
+        padding: 26px 1px 4px !important;
+        font-size: 33px;
+    }
+
+    .social-icon p {
+        display: none;
+    }
+
+    .social-vr-line {
+        display: none;
+    }
+
+    .social-media {
+        justify-content: space-around !important;
+        padding: 13px 1px !important;
+    }
+
+    /*---------------------------
+     Social Mesia Secion End
+     --------------------------  */
+    /*---------------------------
+     Footer Contact section start
+     --------------------------  */
+    .footer-row-is {
+        padding: 0 !important;
+    }
+
+    .footer-col-is {
+        padding: 0 !important;
+        margin-top: 50px;
+    }
+
+    .footer-contact-title-is {
+        font-size: 30px;
+    }
+
+    .top-footer {
+        margin-top: -90px;
+    }
+
+    .footer-contact-form {
+        height: 60px;
+        width: 355px;
+    }
+
+    .footer-contact-form-last {
+        height: 60px;
+        width: 355px;
+    }
+
+    .footer-contact-icon {
+        font-size: 21px;
+    }
+
+    .footer-contact-icon-btn {
+        font-size: 21px;
+    }
+
+    .footer-contact-title-is {
+        font-size: 24px;
+    }
+
+    /*---------------------------
+     Footer Contact Secion End
+     --------------------------  */
+    /* MISSION SECTION START */
+    .mhn-section h1 {
+        font-size: 25px;
+    }
+
+    .ceo-para {
+        letter-spacing: 0px;
+        font-size: 15px;
+        opacity: 0.6;
+        padding-top: 15px !important;
+    }
+
+    .news-ai-status {
+        padding-top: 50px;
+    }
+
+    /* MISSION SECTION END */
+    /* KRYTERION PAGE START */
+    .kry-heading h1 {
+        font-size: 27px;
+    }
+
+    .kry-logo {
+        display: flex;
+        justify-content: center;
+    }
+
+    .kry-logo img {
+        max-width: 45%;
+        float: none;
+    }
+
+    .outer-box {
+        padding-top: 4rem;
+    }
+
+    .test-box {
+        max-width: 55%;
+    }
+
+    .fea-img1,
+    .fea-img2,
+    .fea-img3 {
+        height: 270px;
+    }
+
+    .kry-map-ls {
+        padding-top: 38px !important;
+        padding-left: 100px !important;
+    }
+
+    .kry-map-side iframe {
+        height: 390px;
+        margin-top: 20px;
+    }
+
+    /* KRYTERION PAGE END */
+    /* ambassador page css start  */
+    .ambassador-program-main .ambassador-program-main-cov h1 {
+        font-size: 30px;
+    }
+
+    button.ambassador-btn {
+        padding: 0;
+        font-size: 10px;
+        padding: 0.5rem 2.5rem;
+        margin: 30px 0px;
+    }
+
+    .ambassador-program-main {
+        background-position-y: -0px;
+    }
+
+    /* ambassador page css end  */
+    /* SOCIAL FOOTER START */
+    .social-icons-side {
+        margin-top: 12px;
+    }
+
+    .social-outer-block {
+        display: flex;
+        justify-content: center;
+    }
+
+    /* SOCIAL FOOTER END */
+    /* HOW TO PAY PAGE START */
+    .pay-card-img img {
+        width: 100%;
+    }
+
+    .pay-content-pt span {
+        font-size: 20px;
+    }
+
+    /* HOW TO PAY PAGE END */
+}
+
+/* =========== ALI SHAN ONLY=================== */
+/* Block-News-ai-responsive */
+@media only screen and (min-width : 561px) and (max-width : 767px) {
+
+    /* video-section-start */
+    .news-line-ai {
+        width: 100%;
+    }
+
+    .news-info-ai {
+        padding-left: 0%;
+    }
+
+    .single-news-item {
+        justify-content: space-between;
+    }
+
+    .sm-line-news {
+        margin-bottom: 65px;
+    }
+
+    /* video-section-end */
+    .play-btn {
+        padding-top: 0px;
+    }
+
+    .sun {
+        margin-top: 0px;
+    }
+
+    .left-v-area-content {
+        margin: 0px 80px;
+    }
+
+    .about-sec-ai img {
+        width: 100%;
+    }
+
+    .single-batch-ai {
+        width: 80%;
+        margin: auto;
+/*        margin-bottom: 5%;
+*/    }
+
+    .single-news-item img {
+        width: 40%;
+    }
+
+    /*
+    .info-single-ai{
+        text-align: end;
+    } */
+    .icon-news-ai {
+        font-size: 18px !important;
+    }
+
+    .info-single-ai h5 {
+        font-size: 29px;
+    }
+
+    .info-single-ai p {
+        font-size: 16px !important;
+    }
+
+    .view-more-news-ai {
+        margin: 8% 0% 8% 0%;
+        display: flex;
+        justify-content: center;
+        max-width: 100%;
+        font-size: 22px;
+    }
+
+    .date-ai>h1 {
+        font-size: 4.5rem !important;
+    }
+
+    .date-ai p {
+        font-size: 23px;
+    }
+
+    .info-batch-ai h5 {
+        font-size: 27px !important;
+        width:500px;
+
+    }
+
+    .info-batch-ai p {
+        font-size: 20px;
+    }
+
+    .single-batch-ai {
+        width: 100%;
+        justify-content: flex-start;
+/*        margin-bottom: 5%;
+*/    }
+
+    .upcoming-ai,
+    .why-choose-ai,
+    .lates-news-header-ai {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .responsive-news-ai-footer {
+        display: none;
+    }
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-width : 768px) and (max-width : 1024px) {
+
+    /* Styles */
+    /* KRYTERION PAGE START */
+    .kry-logo img {
+        max-width: 60%;
+    }
+
+    .kry-heading h1 {
+        font-size: 28px;
+    }
+
+    .outer-box {
+        padding-top: 5rem;
+    }
+
+    .test-box {
+        max-width: 65%;
+    }
+
+    .kry-map-ls {
+        padding-top: 64px !important;
+        padding-left: 39px !important;
+    }
+
+    /* KRYTERION PAGE END */
+    /* ambassador page css start  */
+    .ambassador-program-main {
+        background-position-y: -0px;
+    }
+
+    .ambassador-program-main .ambassador-program-main-cov h1 {
+        font-size: 35px;
+    }
+
+    button.ambassador-btn {
+        font-size: 12px;
+        padding: 0.5rem 100px;
+
+    }
+
+    /* ambassador page css end  */
+}
+
+@media only screen and (min-width : 1024px) and (max-width : 1264px) {
+
+    /* KRYTERION SECTION START */
+    .kry-heading h1 {
+        font-size: 26px;
+    }
+
+    .kry-logo img {
+        max-width: 50%;
+    }
+
+    .test-box {
+        max-width: 55%;
+    }
+
+    .outer-box {
+        padding-top: 13rem;
+    }
+
+    .kry-map-ls {
+        padding-left: 39px !important;
+    }
+
+    /* KRYTERION SECTION END */
+    /* KRYTERION PAGE END */
+    /* ambassador page css start  */
+    .ambassador-program-main {
+        background-position-y: -0px;
+    }
+
+    .ambassador-program-main .ambassador-program-main-cov h1 {
+        font-size: 35px;
+    }
+
+    button.ambassador-btn {
+        font-size: 12px;
+        padding: 0.5rem 100px;
+
+    }
+
+    /* ambassador page css end  */
+}
+
+@media only screen and (min-width : 480px) and (max-width: 767px) {
+
+    /* BECOME A PARTNER SECTION START*/
+    .b-part-section .col-lg-12 {
+        padding: 0px;
+    }
+
+    /* .container-fluid.b-part-section {
+         padding: 0px !important;
+     } */
+    .b-part-section .row {
+        padding: 0px !important;
+    }
+
+    .partner-form input {
+        font-size: 12px;
+    }
+
+    .social-icon svg {
+        font-size: 35px !important;
+    }
+
+    /* BECOME A PARTNER SECTION END*/
+}
+
+/* iPads (landscape) ----------- */
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : landscape) {
+    /* Styles */
+}
+
+/* iPads (portrait) ----------- */
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : portrait) {
+    /* Styles */
+}
+
+/* Desktops and laptops ----------- */
+@media only screen and (min-width : 1224px) {
+    /* Styles */
+}
+
+/* Large screens ----------- */
+@media only screen and (min-width : 1824px) {
+    /* Styles */
+}
+
+/* iPhone 4 ----------- */
+@media only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+    /* Styles */
+}
+
+/* ==================================================================================================================== */
+@media only screen and (min-width : 1448px) and (max-width : 1496px) {
+
+    /*---------------------------
+     Footer Contact section start
+     --------------------------  */
+    .footer-row-is {
+        padding: 0 !important;
+    }
+
+    .footer-col-is {
+        padding: 0 !important;
+    }
+
+    .footer-contact-title-is {
+        font-size: 30px;
+    }
+
+    .top-footer {
+        margin-top: -50px;
+    }
+
+    .footer-contact-form {
+        height: 50px;
+        width: 300px;
+    }
+
+    .footer-contact-form-last {
+        height: 50px;
+        width: 300px;
+    }
+
+    .footer-contact-icon {
+        font-size: 20px;
+    }
+
+    .footer-contact-icon-btn {
+        font-size: 20px !important;
+    }
+
+    .footer-contact-title-is {
+        font-size: 24px;
+    }
+
+    .footer-contact-form input {
+        font-size: 15px !important;
+    }
+
+    .footer-contact-form-last input {
+        font-size: 15px !important;
+    }
+
+    .footer-contact {
+        padding: 15px 0 !important;
+    }
+
+    /*---------------------------
+     Footer Contact Secion End
+     --------------------------  */
+}
+
+/* Exclusive media queries */
+@media only screen and (min-width:600px) and (max-width:720px) {
+    .course__title {
+        font-size: 13px;
+        font-weight: 600;
+        height: 36px;
+        margin-top: 15px;
+    }
+
+    .course-info-2-ui {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (min-width:480px) and (max-width:599px) {
+    .course__title {
+        font-size: 12px;
+        font-weight: 600;
+        height: 36px;
+        margin-top: 15px;
+    }
+
+    .course-info-2-ui {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (min-width:365px) and (max-width:479px) {
+    .course__title {
+        font-size: 13px;
+        font-weight: 600;
+        line-height: 18px;
+        height: 36px;
+        margin-top: 15px;
+    }
+
+    .mar {
+        margin-top: 22px;
+    }
+
+    .course-info-2-ui {
+        font-size: 7px;
+    }
+}
+
+@media only screen and (max-width:364px) {
+    .course__title {
+        font-size: 8px;
+        font-weight: 600;
+        margin-top: 15px;
+    }
+
+    .course-info-2-ui {
+        font-size: 6px;
+    }
+}
+
+@media only screen and (min-width : 1200px) and (max-width : 1448px) {
+    .course-info-2-ui .card-seperator-ui {
+        display: none;
+    }
+
+    .course-info-2-ui {
+        /* display: block !important; */
+        font-size: 12px;
+    }
+
+    .img-new {
+        /*        max-height: 16rem;*/
+    }
+
+    .course__title {
+        font-size: 19px !important;
+    }
+
+    /* KRYTERION PAGE END */
+    /*  partner section start  */
+    .partner-form {
+        width: 300px;
+        background-color: white;
+        padding: 3px;
+        border: 1px solid #757575;
+    }
+
+    .partner-form input {
+        font-size: 15px;
+        box-shadow: none !important;
+    }
+
+    .partner-apply-btn {
+        padding: 5px 30px 5px 30px;
+        font-size: 17px;
+        /* margin-top: 30px; */
+    }
+
+    /*  partner section end  */
+
+
+
+    .center-block-one .inner-box {
+        height: 25rem;
+    }
+
+    /*---------------------------
+     Footer Contact section start
+     --------------------------  */
+    .footer-row-is {
+        padding: 0 !important;
+    }
+
+    .footer-col-is {
+        padding: 0 !important;
+    }
+
+    .footer-contact-title-is {
+        font-size: 30px;
+    }
+
+    .top-footer {
+        margin-top: -50px;
+    }
+
+    .footer-contact-form {
+        height: 50px;
+        width: 250px;
+    }
+
+    .footer-contact-form-last {
+        height: 50px;
+        width: 250px;
+    }
+
+    .footer-contact-icon {
+        font-size: 20px;
+    }
+
+    .footer-contact-icon-btn {
+        font-size: 20px !important;
+    }
+
+    .footer-contact-title-is {
+        font-size: 24px;
+    }
+
+    .footer-contact-form input {
+        font-size: 15px !important;
+    }
+
+    .footer-contact-form-last input {
+        font-size: 15px !important;
+    }
+
+    .footer-contact {
+        padding: 15px 0 !important;
+    }
+
+    /*---------------------------
+     Footer Contact Secion End
+     --------------------------  */
+    /* ambassador page css start  */
+    .ambassador-program-main {
+        background-position-y: -200px;
+    }
+
+    .ambassador-program-main .ambassador-program-main-cov h1 {
+        font-size: 35px;
+    }
+
+    button.ambassador-btn {
+        font-size: 12px;
+        padding: 0.5rem 100px;
+
+    }
+
+    /* ambassador page css end  */
+}
+
+
+@media only screen and (max-width : 1702px) {
+    /* Styles */
+    /* Header-start */
+    /* top-nav-start */
+
+    /*
+        .top-nav-text-ui{
+         display: none !important;
+        }
+*/
+    /* top-nav-end */
+    /* Header-end */
+}
+
+@media only screen and (min-width : 280px) and (max-width : 767px) {
+
+    .left-video-area,
+    .right-video-area {
+        height: 30rem;
+    }
+
+    .left-v-area-content {
+        margin: 0px 50px;
+    }
+
+    .video-heading-btn button {
+        font-size: 10px;
+    }
+
+    .sun {
+        width: 30px;
+    }
+
+    .left-sec-faq {
+        display: none;
+    }
+
+    /* * Blog Css Start */
+    .mob-hide-ai {
+        display: none;
+    }
+
+    .right-side-menu {
+        display: none;
+    }
+
+    /* Blog Css END */
+}
+
+@media only screen and (min-width : 767px) and (max-width : 1200px) {
+
+    .left-video-area,
+    .right-video-area {
+        height: 30rem;
+    }
+
+    .sun {
+        margin-top: 100px;
+    }
+
+}
+
+@media only screen and (min-width : 768px) and (max-width : 768px) {
+    .sun {
+        margin-top: 250px;
+    }
+}
+
+@media only screen and (min-width : 200px) and (max-width : 325px) {
+    .top-nav-outer-ui .nav-link {
+        font-size: 9px;
+    }
+}
+
+
+
+
+
+
+@media only screen and (min-width : 325px) and (max-width : 767px) {
+
+    /* video-section-start */
+    .top-nav-outer-ui .nav-link {
+        font-size: 12px;
+    }
+
+    .play-btn {
+        padding-top: 0px;
+    }
+
+    .sun {
+        margin-top: 0px;
+    }
+
+    .left-v-area-content {
+        margin: 0px 55px;
+    }
+
+    /* video-section-end */
+    /* hero section Ai Start*/
+    .hero-section {
+        margin: 0%;
+    }
+
+    /* hero section Ai End*/
+
+    /* Funfact Area Css Responsive Ai Start*/
+
+    #funfact-area {
+        margin: 0% !important;
+    }
+
+    .single-funfact {
+        justify-content: space-evenly;
+        border-bottom: 2px solid white;
+        margin-bottom: 30px;
+    }
+
+    .funfact-text,
+    .funfact-icon {
+        width: 94px;
+        border: none;
+    }
+
+    .funfact-text {
+        padding-right: 150px;
+    }
+
+    /* Funfact Area Css Responsive Ai END*/
+    /* MISSION SECTION START */
+    .mhn-section h1 {
+        font-size: 25px;
+    }
+
+    .ceo-para {
+        letter-spacing: 0px;
+        font-size: 15px;
+        opacity: 0.6;
+        padding-top: 15px !important;
+    }
+
+    /* MISSION SECTION END */
+
+}
+
+@media only screen and (max-width:1199px) {
+    .dropdown-content-useful a:hover {
+        transform: translateX(5px);
+    }
+}
+
+/* Block-News-ai-responsive  START*/
+@media only screen and (min-width : 768px) and (max-width : 991px) {
+
+    /* SPACE TO WORK SECTION START */
+    .single-stw-card {
+        margin-top: 12px;
+    }
+
+    h4.single-stw-title {
+        font-size: 20px;
+    }
+
+    .single-stw-span span {
+        font-size: 16px;
+    }
+
+    /* SPACE TO WORK SECTION END */
+    /* Styles */
+    /* FUN FACT START */
+    /* funfact Area css AI Start */
+    .single-funfact {
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        padding-left: 30px;
+    }
+
+    .funfact-text {
+        border: none;
+    }
+
+    .funfact-text {
+        border-left: none;
+    }
+
+    #funfact-area {
+        margin: 28px 35px;
+    }
+
+    /* FUN FACT END */
+    /*---------------------------
+     Course Card CSS START
+     --------------------------  */
+    .category i {
+        font-size: 15px;
+    }
+
+    .category span {
+        font-size: 15px;
+    }
+
+    /*---------------------------
+     Course Card CSS START
+     --------------------------  */
+    /*---------------------------
+     Social Mesia Secion Stert
+     --------------------------  */
+    .social-row-is {
+        padding: 0 !important;
+    }
+
+    .socia-title span {
+        font-weight: bold;
+    }
+
+    .s-icon-is {
+        font-size: 40px !important;
+    }
+
+    .socia-title {
+        margin-top: 20px;
+        padding: 26px 1px 4px !important;
+        font-size: 37px;
+    }
+
+    .social-icon p {
+        display: none;
+    }
+
+    .social-vr-line {
+        display: none;
+    }
+
+    .social-media {
+        justify-content: space-around !important;
+        padding: 10px 40px 10px 40px !important;
+    }
+
+    /*---------------------------
+     Social Mesia Secion End
+     --------------------------  */
+    /* QUOTE SECTION START */
+    .quote-section .row {
+        margin-left: 0rem;
+        margin-right: 0rem;
+    }
+
+    .quote-section .row .col-lg-2 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .quote-section .col-lg-2 img {
+        float: none;
+        margin-right: 0px;
+    }
+
+    .quote-section img {
+        width: 100%;
+    }
+
+    .quote-section p {
+        font-size: 12px;
+        padding-top: 16px;
+    }
+
+    /* QUOTE SECTION END */
+    /* BECOME A PARTNER SECTION START*/
+    .b-part-section .col-lg-12 {
+        padding: 0px;
+    }
+
+    /* .container-fluid.b-part-section {
+        padding: 0px !important;
+    } */
+    .b-part-section .row {
+        padding: 0px !important;
+    }
+
+    .partner-form input {
+        font-size: 12px;
+    }
+
+    .b-part-section {
+
+        padding-bottom: 40px;
+
+    }
+
+    /* BECOME A PARTNER SECTION END*/
+    /* CAMPUS-FACT SECTION START */
+    .campus-life li {
+        font-size: 15px;
+        padding-left: 20px;
+    }
+
+    .down-img-box {
+        display: flex;
+        justify-content: center;
+    }
+
+    /* CAMPUS_FACT SECTION END */
+
+    /* REVIEW SECTION START */
+    .first-co-line,
+    .sec-co-line,
+    .th-co-line {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .first-co-line .col-lg-4 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .first-co-line .col-lg-8 h4 {
+        font-size: 19px;
+        height: 58px;
+        padding-top: 13px;
+        text-align: center;
+    }
+
+    .first-co-line .col-lg-8 p {
+        font-size: 13px;
+        text-align: center;
+    }
+
+    #resp-para {
+        text-align: left;
+    }
+
+    .sec-co-line .col-lg-4 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .sec-co-line .col-lg-8 h4 {
+        font-size: 19px;
+        padding-top: 13px;
+        text-align: center;
+    }
+
+    .sec-co-line .col-lg-8 p {
+        font-size: 13px;
+        text-align: center;
+    }
+
+    .th-co-line .col-lg-4 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .th-co-line .col-lg-8 h4 {
+        font-size: 19px;
+        padding-top: 13px;
+        text-align: center;
+    }
+
+    .th-co-line .col-lg-8 p {
+        font-size: 13px;
+        text-align: center;
+    }
+
+    /* REVIEW SECTION END */
+    /* TOP FOOTER START */
+    .footer-logo img {
+        max-width: 70%;
+    }
+
+    .top-footer {
+        margin-top: -53px;
+        padding-top: 65px;
+        padding-bottom: 65px;
+    }
+
+    .footer-logo {
+        display: flex;
+        justify-content: center;
+    }
+
+    .footer-link-res {
+        padding-top: 30px;
+    }
+
+    ul.footer-menu {
+        margin-left: 25px;
+    }
+
+    .contact-res {
+        padding-left: 25px;
+        padding-top: 10px;
+    }
+
+    .nav-items-ai a {
+        width: 100%;
+        padding-bottom: 10px;
+        padding-left: 25px;
+    }
+
+    .nav-items-ai a:hover {
+        text-decoration: underline;
+    }
+
+    .nav-items-ai ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+
+        flex-direction: column;
+    }
+
+    .nav-items-ai li {
+        margin-bottom: 10px;
+    }
+
+    .footer-btm-ai .col-lg-4 {
+        justify-content: center !important;
+    }
+
+    .footer-social {
+        margin-top: 12px;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .social-res2 {
+        margin-top: 25px;
+    }
+
+    /* TOP FOOTER END */
+    .single-news-item img {
+        width: 50%;
+    }
+
+    .icon-news-ai {
+        font-size: 13px;
+    }
+
+    .info-single-ai h5 {
+        font-size: 16px;
+    }
+
+    .info-single-ai p {
+        font-size: 10px;
+    }
+
+    .date-ai p {
+        font-size: 13px;
+    }
+
+    .single-batch-ai {
+/*        margin: 15% 0%;
+*/    }
+
+    .news-ai-status {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+
+    .sm-line-news {
+        margin-bottom: 30px;
+    }
+
+    .news-heading {
+        font-size: 34px;
+    }
+
+    .view-more-news-ai {
+        justify-content: center;
+    }
+
+    .why-choose-ai {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 60px;
+    }
+
+    .about-sec-ai img {
+        width: 100%;
+    }
+
+    .info-about-ai h5 {
+        font-size: 2rem;
+    }
+
+    .info-about-ai p {
+        font-size: 18px;
+    }
+
+    .resp-ai-hand {
+        max-width: 19%;
+        margin: auto;
+        margin-top: 8%;
+    }
+
+    .responsive-news-ai-footer {
+        display: none;
+    }
+
+    /* featured Course Tablet Mobile owl Slider Css START */
+    /* featured Course Tablet Mobile owl Slider Css END */
+    /* MAP SECTION START */
+    #locations-panel {
+        max-height: 496px !important;
+    }
+
+    #map {
+        overflow: hidden;
+        height: 496px;
+        z-index: 1;
+        /* margin-top: 20px; */
+    }
+
+    .map-section {
+        padding-top: 20px;
+        padding-bottom: 388px !important;
+    }
+
+    .map-section .col-lg-12 h1 {
+        font-size: 30px;
+    }
+
+    /* MAP SECTION START */
+    /* MISSION SECTION START */
+    .mhn-section h1 {
+        font-size: 25px;
+    }
+
+    .ceo-para {
+        letter-spacing: 0px;
+        font-size: 15px;
+        opacity: 0.6;
+        padding-top: 15px !important;
+    }
+
+    /* MISSION SECTION END */
+    /* Courses Page Css Start */
+    .tabs-respon-ai {
+        display: flex;
+    }
+
+    .courses-latest-news-ai {
+        width: 100%;
+    }
+
+    .courses-tag-ai {
+        width: 80%;
+    }
+
+    .single-news-item {
+        margin-bottom: 2%;
+    }
+
+    .news-line-ai {
+        margin-bottom: 2%;
+    }
+
+    .course-marquee-ai {
+        height: 25rem !important;
+    }
+
+    /* Courses Page Css End */
+    /*=== Course Single Detail Ai Start ===*/
+    .tab-enroll-resp-ai {
+        display: flex;
+    }
+
+    .Get-started-ai {
+        width: 50%;
+    }
+
+    .tab-news-course-ai {
+        width: 50% !important;
+    }
+
+    .tab-course-marquee marquee {
+        height: 35rem !important;
+    }
+
+    .tab-download-course-ai {
+        position: absolute;
+        top: 409px;
+        left: -2px;
+    }
+
+    .left-sec-faq {
+        width: 4%;
+    }
+
+    .left-sec-faq h5 {
+        display: none;
+    }
+
+    /*=== Course Single Detail Ai END ===*/
+    /* BLOG PAGE START */
+    .blog-card-content-hoz {
+        padding: 0px;
+    }
+
+    .blog-card-title h3 {
+        font-size: 20px !important;
+    }
+
+    /* BLOG PAGE END */
+    /* SOCIAL ICON START */
+    .footer-social {
+        display: flex !important;
+        padding-right: 0px;
+    }
+
+    /* SOCIAL ICON END */
+    /* HOW TO PAY PAGE START */
+    .pay-card-img img {
+        width: 100%;
+    }
+
+    .pay-content-pt span {
+        font-size: 17px;
+    }
+
+    /* HOW TO PAY PAGE END */
+}
+
+@media only screen and (max-width:481px) {
+    .first-co-line .col-lg-8 h4 {
+        padding-top: 0px !important;
+        height: 85px !important;
+        text-align: left;
+    }
+}
+
+@media only screen and (max-width:767px) {
+
+    /* REVIEW SECTION START */
+    .first-co-line,
+    .sec-co-line,
+    .th-co-line {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .first-co-line .col-lg-4 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .first-co-line .col-lg-8 h4 {
+        font-size: 14px;
+        padding-top: 13px !important;
+        /*            height: 69px;*/
+        text-align: center;
+    }
+
+    .first-co-line .col-lg-8 p {
+        font-size: 13px;
+        text-align: center;
+    }
+
+    #resp-para {
+        text-align: left;
+    }
+
+    .sec-co-line .col-lg-4 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .sec-co-line .col-lg-8 h4 {
+        font-size: 19px;
+        padding-top: 13px;
+        text-align: center;
+    }
+
+    .sec-co-line .col-lg-8 p {
+        font-size: 13px;
+        text-align: center;
+    }
+
+    .th-co-line .col-lg-4 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .th-co-line .col-lg-8 h4 {
+        font-size: 19px;
+        padding-top: 13px;
+        text-align: center;
+    }
+
+    .th-co-line .col-lg-8 p {
+        font-size: 13px;
+        text-align: center;
+    }
+
+    /* REVIEW SECTION END */
+}
+
+
+@media only screen and (min-width : 490px) and (max-width : 768px) {
+    .responsive-mobile-ai {
+        display: none;
+    }
+}@media only screen and (min-width : 769px) and (max-width : 1024px) {
+    .responsive-mobile-ai {
+        display: none;
+    }
+}@media only screen and (min-width : 1025px) and (max-width : 2000px) {
+    .responsive-mobile-ai {
+        display: none;
+    }
+}
+@media only screen and (min-width : 992px) and (max-width : 1224px) {
+
+    /*Farhan Latest Courses Section Start */
+    .first-co-line h4 {
+        font-size: 18px;
+    }
+
+    .first-co-line p {
+        font-size: 12px;
+    }
+
+
+    .news-heading {
+        font-size: 1.75rem;
+    }
+
+    .about-sec-ai img {
+        width: 100%;
+    }
+
+    .single-news-item img {
+        width: 35%;
+        margin-right: 15px;
+    }
+
+    .sub-active-ai p {
+        font-size: 11px;
+
+    }
+
+    .icon-news-ai p {
+        margin-bottom: 1%;
+    }
+
+    .news-info-ai {
+        max-width: 100%;
+    }
+
+    .info-single-ai {
+        float: right;
+    }
+
+    .info-single-ai h5 {
+        font-size: 12px;
+    }
+
+    .info-single-ai p {
+        font-size: 8px !important;
+    }
+
+    .single-batch-ai {
+
+        width: 100%;
+        justify-content: space-evenly;
+        margin-top: 0%;
+        margin-bottom: 0%;
+    }
+
+    .date-ai {
+        border-radius: 20px;
+        padding: 5px 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        border: 3px solid #FF5500;
+        margin-right: 25px;
+    }
+
+    .info-batch-ai h5 {
+        font-size: 13px !important;
+    }
+
+    .info-batch-ai {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .date-ai {
+        margin: 0%;
+        margin-bottom: 10px;
+    }
+
+    .date-ai h1 {
+        font-size: 30px !important;
+    }
+
+    .date-ai p {
+        font-size: 13px !important;
+    }
+
+    .news-info-ai {
+        padding-left: 0px;
+    }
+
+    .news-line-ai {
+        width: 100%;
+    }
+
+    .info-about-ai h5 {
+        font-size: 15px;
+    }
+
+    .info-about-ai p {
+        font-size: 12px;
+    }
+
+    /*FArhan Latest Courses Section End */
+
+
+
+    /*---------------------------
+     Social Mesia Secion Stert
+     --------------------------  */
+    .social-row-is {
+        padding: 0 !important;
+    }
+
+    .socia-title span {
+        font-weight: bold;
+    }
+
+    .social-media {
+        padding: 0 !important;
+    }
+
+    .social-media .social-icon {
+        padding: 15px 8px;
+    }
+
+    .s-icon-is {
+        font-size: 40px !important;
+    }
+
+    .socia-title {
+        margin-top: 20px;
+        padding: 35px 1px 4px !important;
+        font-size: 37px;
+    }
+
+    .social-icon p {
+        /* display: none; */
+        font-size: 16px;
+    }
+
+    .social-vr-line {
+        display: none;
+    }
+
+    .social-media {
+        justify-content: space-around !important;
+        padding: 10px 40px 0px 40px !important;
+    }
+
+    /*---------------------------
+     About Us Css
+     --------------------------  */
+    /*----Progress-Filler Bar Start---- */
+    .desktop-filler-bar {
+        display: block !important;
+    }
+
+    .Desktop-friendly-ai {
+        display: none;
+    }
+
+    /*----Progress-Filler Bar End---- */
+
+    /*---------------------------
+     Course-single-Detail
+    --------------------------  */
+    /* FAQ SECTION CSS START */
+    .faq-mainhead-ai h5 {
+        font-size: 18px;
+    }
+
+    .left-sec-faq {
+        width: 35%;
+    }
+
+    .left-sec-faq h5 {
+        font-size: 13px;
+    }
+
+    /* FAQ SECTION CSS END */
+    /* BLOG PAGE START */
+    .blog-card-title h3 {
+        font-size: 20px !important;
+    }
+
+    /* BLOG PAGE END */
+    /* HOW TO PAY PAGE START */
+    .pay-card-img img {
+        width: 100%;
+    }
+
+    .pay-content-pt p {
+        font-size: 13px !important;
+    }
+
+    .pay-content-pt span {
+        font-size: 13px !important;
+    }
+
+    /* HOW TO PAY PAGE END */
+
+}
+
+@media only screen and (min-width : 1225px) and (max-width : 1397px) {
+    .about-sec-ai img {
+        width: 100%;
+    }
+
+    .single-batch-ai {
+        width: 95%;
+    }
+
+    .info-single-ai h5 {
+        font-size: 1rem;
+    }
+
+    .date-ai p {
+        font-size: 13px;
+    }
+
+    /*---------------------------
+     Social Mesia Secion Stert
+     --------------------------  */
+    .social-row-is {
+        padding: 0 !important;
+    }
+
+    .socia-title span {
+        font-weight: bold;
+    }
+
+    .social-media .social-icon {
+        padding: 15px 8px;
+    }
+
+    .social-media p {
+        font-size: 18px;
+    }
+
+    .s-icon-is {
+        font-size: 40px !important;
+    }
+
+    .socia-title {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding: 26px 1px 4px !important;
+        font-size: 37px;
+    }
+
+    .social-vr-line {
+        display: none;
+    }
+
+    .social-media {
+        justify-content: space-around !important;
+        padding: 13px 1px 0 1px !important;
+    }
+
+    /*---------------------------
+     Social Mesia Secion End
+     --------------------------  */
+
+}
+
+/* Block-News-ai-responsive END*/
+/* Video-Modal-Queries START */
+@media only screen and (min-width: 812px) and (max-width: 1250px) {
+    .video-video-ui {
+        width: 768px;
+        height: 430px;
+    }
+
+    .modal-dialog-ui {
+        max-width: 820px !important;
+    }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 811px) {
+    .video-video-ui {
+        width: 320px;
+        height: 180px;
+    }
+
+    .modal-dialog-ui {
+        max-width: 370px !important;
+    }
+}
+
+/* Video-Modal-Queries END */
+@media only screen and (min-width : 1398px) and (max-width : 1480px) {
+
+    /*---------------------------
+     Social Mesia Secion Stert
+     --------------------------  */
+    .social-row-is {
+        padding: 0 !important;
+    }
+
+    .socia-title span {
+        font-weight: bold;
+    }
+
+    .social-media .social-icon {
+        padding: 15px 8px;
+    }
+
+    .social-media p {
+        font-size: 18px;
+    }
+
+    .s-icon-is {
+        font-size: 30px;
+    }
+
+    .socia-title {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding: 26px 1px 4px !important;
+        font-size: 37px;
+    }
+
+    .social-vr-line {
+        display: none;
+    }
+
+    .social-media {
+        justify-content: space-around !important;
+        padding: 13px 1px 13px 1px !important;
+    }
+
+    /*---------------------------
+     Social Mesia Secion End
+     --------------------------  */
+}
+
+@media only screen and (min-width : 992px) and (max-width : 1112px) {
+    /* admission form start  */
+
+    .admission-lable-admin {
+        font-size: 14px !important;
+    }
+
+    /* admission form end  */
+}
+
+/* @media only screen and (min-width: 375px) and (max-width: 576px){
+        .video-video-ui{
+            width: 90%;
+            height: 330px;
+        }
+         .modal-dialog-ui{
+            max-width: 820px !important;
+         }
+    } */
+@media only screen and (min-width : 1024px) and (max-width : 1300px) {
+
+    .lates-news-header-ai p {
+        font-size: 15px !important;
+        line-height: 20px !important;
+    }
+
+    .carousel-img {
+        height: 415px;
+        width: 595px;
+    }
+
+    .aboutus-ui .cards-outer-ui .card-text {
+        font-size: 12px;
+    }
+
+    .aboutus-ui .cards-outer-ui .card-title {
+        font-size: 18px;
+    }
+
+    .cat_cour {
+        font-size: 12px;
+    }
+
+    .dur_cour {
+        font-size: 12px;
+    }
+
+
+
+}
+
+@media only screen and (min-width : 1024px) and (max-width : 1500px) {
+
+    /* About Us Css */
+    /* Progress Bar Css Start */
+    .skill-bars {
+        padding: 0px;
+    }
+
+    .lates-news-header-ai p {
+        font-size: 17px;
+        line-height: 31px;
+    }
+
+    .respons-about-us-ai {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .about-us-heading-ai {
+        font-size: 33px;
+
+    }
+
+    /* Progress Bar Css End */
+}
+
+/* ====================================Pearson-Start================================= */
+/* Pearson-Fonts-Start */
+@media only screen and (min-width:1400px) {
+    .head-logo-ui {
+        width: 45%;
+    }
+}
+
+@media only screen and (min-width:990px) and (max-width:1399px) {
+    .head-logo-ui {
+        width: 40%;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:989px) {
+    .head-logo-ui {
+        width: 80%;
+    }
+}
+
+@media (max-width:575px) {
+    .head-logo-ui {
+        width: 80%;
+    }
+}
+
+@media (min-width:1500px) {
+    .head-logo-ui {
+        width: 38%;
+    }
+}
+
+@media only screen and (min-width:1601px) {
+    .content-head-ui h1 {
+        font-size: 2.2rem;
+    }
+
+    .content-head-ui h4 {
+        font-size: 1.2rem;
+    }
+}
+
+@media only screen and (min-width:991px) and (max-width:1019px) {
+    .content-head-ui {
+        padding-block: 0.5rem !important;
+    }
+
+    .pearson-content-btn {
+        font-size: 15px !important;
+    }
+}
+
+@media only screen and (min-width:991px) and (max-width:1043px) {
+    .content-head-ui h2 {
+        font-size: 1.4rem !important;
+    }
+
+    .content-head-ui h5 {
+        font-size: 0.8rem;
+    }
+
+}
+
+@media only screen and (min-width:991px) and (max-width:1500px) {
+    .content-head-ui {
+        padding-block: 1rem;
+    }
+
+    .pearson-content-btn {
+        font-size: 18px;
+    }
+
+    /* HOW TO PAY PAGE START */
+    .pay-card-img img {
+        width: 100%;
+    }
+
+    .pay-content-pt span {
+        font-size: 17px;
+    }
+
+    /* HOW TO PAY PAGE END */
+}
+
+@media only screen and (min-width:991px) and (max-width:1200px) {
+
+    /* <!-- counter app css --> */
+    #funfact-area {
+        padding: 21px 0px;
+        margin: 0px 45px;
+    }
+
+    .funfact-icon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-right: 5px;
+    }
+
+    .funfact-icon img {
+        width: 60px;
+    }
+
+    .funfact-text {
+        font-size: 10px;
+
+    }
+
+    .funfact-text h1 {
+        font-size: 23px;
+    }
+
+    /*== FunFact CSS End ==*/
+    /* ambassador program page css  start*/
+    .ambassador-social-inp {
+        width: 155px !important;
+    }
+
+    .ambassador-label {
+        font-size: 15px;
+    }
+
+    /* ambassador program page css end */
+    /*---------------------------
+     Footer Contact section start
+     --------------------------  */
+    .footer-row-is {
+        padding: 0 !important;
+    }
+
+    .footer-col-is {
+        padding: 0 !important;
+    }
+
+    .footer-contact-title-is {
+        font-size: 30px;
+    }
+
+    .top-footer {
+        margin-top: -50px;
+    }
+
+    .footer-contact-form {
+        height: 43px;
+        width: 250px;
+    }
+
+    .footer-contact-form-last {
+        height: 43px;
+        width: 250px;
+    }
+
+    .footer-contact-icon {
+        font-size: 15px;
+    }
+
+    .footer-contact-icon-btn {
+        font-size: 15px !important;
+    }
+
+    .footer-contact-title-is {
+        font-size: 24px;
+    }
+
+    .footer-contact-form input {
+        font-size: 15px !important;
+    }
+
+    .footer-contact-form-last input {
+        font-size: 15px !important;
+    }
+
+    .footer-contact {
+        padding: 15px 0 !important;
+    }
+
+    /*---------------------------
+     Footer Contact Secion End
+     --------------------------  */
+    /*  partner section start  */
+    .partner-form {
+        width: 250px;
+        background-color: white;
+        padding: 3px;
+        border: 1px solid #757575;
+    }
+
+    .partner-form input {
+        font-size: 12px;
+        box-shadow: none !important;
+    }
+
+    .partner-apply-btn {
+        padding: 5px 30px 5px 30px;
+        font-size: 17px;
+        /* margin-top: 30px; */
+    }
+
+    /*  partner section end  */
+    /* single courses page css  */
+    .single-course-btn {
+        width: 200px;
+    }
+
+    .single-course-curriculum {
+        font-size: 25px;
+    }
+
+    .single-couse-course {
+        font-size: 23px;
+    }
+
+    /* BLOG PAGE START */
+    .blog-co-fa ul {
+        padding: 0px !important;
+    }
+
+    /* BLOG PAGE END */
+}
+
+@media only screen and (min-width:991px) and (max-width:1600px) {
+    .content-head-ui h1 {
+        font-size: 2.0rem;
+    }
+
+    .content-head-ui h4 {
+        font-size: 1.0rem;
+    }
+
+    .pearson-body-bottom-ui h1 {
+        font-size: 2.3rem;
+    }
+
+    .pearson-body-bottom-ui h4 {
+        font-size: 1.3rem;
+    }
+
+    .content-head-ui h2 {
+        font-size: 1.5rem;
+    }
+
+    .content-head-ui h5 {
+        font-size: 0.9rem;
+    }
+}
+
+@media only screen and (max-width:992px) {
+    .cal-em {
+        background: linear-gradient(280deg, rgba(96, 195, 128, 1) 0%, rgba(30, 155, 183, 1) 80%);
+    }
+
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 3) {
+
+    /* CSS */
+    .cal-em {
+        background: linear-gradient(280deg, rgba(96, 195, 128, 1) 0%, rgba(30, 155, 183, 1) 80%);
+
+    }
+}
+
+
+@media only screen and (max-width:990px) {
+    .pearson-body-bottom-ui h1 {
+        font-size: 1.8rem;
+    }
+
+    .pearson-body-bottom-ui {
+        padding-inline: 10px;
+    }
+
+    .pearson-body-bottom-ui h4 {
+        font-size: 0.9rem;
+    }
+
+    .content-head-ui h1 {
+        font-size: 1.8rem;
+    }
+
+    .content-head-ui h4 {
+        font-size: 0.9rem;
+    }
+
+    .hero-text-ui h1 {
+        font-size: 2.0rem;
+    }
+
+    .hero-text-ui h4 {
+        font-size: 1.0rem;
+    }
+
+    .h1-ui {
+        font-size: 1.8rem;
+    }
+
+    .h3-ui {
+        font-size: 0.8rem;
+    }
+}
+
+@media only screen and (max-width:425px) {
+    .content-head-ui h2 {
+        font-size: 1.5rem;
+    }
+
+    .content-head-ui h5 {
+        font-size: 0.9rem;
+    }
+
+    .hero-text-ui h1 {
+        font-size: 1.8rem;
+    }
+
+    .hero-text-ui h4 {
+        font-size: 0.8rem;
+    }
+
+    .h1-ui {
+        font-size: 1.4rem;
+    }
+
+    .h3-ui {
+        font-size: 0.5rem;
+    }
+
+    .outer-fnb {
+        padding: 40px 35px;
+    }
+
+
+}
+
+@media only screen and (max-width:573px) {
+    .pearson-content-btn {
+        font-size: 16px;
+    }
+}
+
+/* ====================================Pearson-Start================================= */
+/* Affiliation Partner Section Start */
+/* @media only screen and (min-width:1654px) and (max-width:1727px){
+    .res-affiliate{
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+} */
+@media only screen and (min-width:1380px) and (max-width:1653px) {
+    .res-affiliate {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+}
+
+@media only screen and (min-width:1188px) and (max-width:1379px) {
+    .res-affiliate {
+        grid-template-columns: repeat(auto-fit, minmax(159px, 1fr));
+    }
+}
+
+@media only screen and (min-width:991px) and (max-width:1187px) {
+    .res-affiliate {
+        grid-template-columns: repeat(auto-fit, minmax(141px, 1fr));
+        grid-column-gap: 37px;
+    }
+}
+
+/* Affiliation Partner Section End */
+/* Funfact Resposive new css start */
+@media only screen and (min-width:992px) {
+
+    .funfact-text,
+    .funfact-icon {
+        height: 4.5rem;
+    }
+
+    .funfact-icon img {
+        height: 60px;
+    }
+}
+
+@media only screen and (max-width:992px) {
+    .funfact-icon img {
+        height: 60px;
+    }
+}
+
+/* Funfact Resposive new css end*/
+/* Index Courses Section START*/
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+/*gfghfhjghhj*/
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 2000px) {
+/*gfghhjgh*/
+}

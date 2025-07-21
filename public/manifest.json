@@ -1,0 +1,23 @@
+{
+    "name": "Career Instite - Training Institute",
+    "short_name": "Career Instite",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#1E9BB7",
+    "description": "On mission to empower next generation with digital skills to meet modern world challenges.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": true,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

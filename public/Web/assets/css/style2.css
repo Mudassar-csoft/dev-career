@@ -1,0 +1,7 @@
+select.form-control.web-modal-input:not([size]):not([multiple]) {
+    height: 36px !important;
+}
+
+select.form-control.hero-form-cont-ui.quik-lead-campus {
+    height: 46px !important;
+}
